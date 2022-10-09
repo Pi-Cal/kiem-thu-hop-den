@@ -1,8 +1,8 @@
-#Install NodeJs >= 16
+# Install NodeJs >= 16
 
-install packages:
-#npm start
+### install packages:
+npm start
 or: yarn
-#run test:
+### run test:
 npm test
 or: yarn test
